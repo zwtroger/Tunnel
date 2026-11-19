@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "payload": {
+    "product": "Zewatech Plantas",
+    "version": "0.2.3",
+    "server": "https://fda-perform-influenced-jul.trycloudflare.com/",
+    "published_at": "2026-11-19T16:49:19+01:00",
+    "packages": {
+      "android": {
+        "url": "https://fda-perform-influenced-jul.trycloudflare.com/instalar/android.apk",
+        "sha256": "383298b3489f3d3a36e7745b9e7b13fb7e463e10b5acc724ce1898421c2d9b08",
+        "bytes": 6016712
+      },
+      "windows": {
+        "url": "https://fda-perform-influenced-jul.trycloudflare.com/instalar/windows.exe",
+        "sha256": "1f70f0464f599b5ec7247633cd6f17032343c41532bce8e55fd6802c0e23c00c",
+        "bytes": 163320023
+      }
+    }
+  },
+  "signature": "nFeSGUGMbD0bAbSDTVhOC4FqfOYCyQ+iMyc6PiuFvMonTnle6Ae/QJKRfCzg/PO9GR9rf9bvi1k7vkOcDMjaghAwG5PR4zhGT5W5bAS7OvyrQL0mHqs7kryAuIzq0VCc3GhFDtYzYaYLsDUwWDndlmPSLyUWHJbTcw82kDzQuLY5rSCxDqlA5/ZiAXxRtSPznE1PGcppHu+QATYiWFNdZtaaXwyPGL4M9y1bfrXxMt8Uv0DX2GYdYctVsbpgggWKKxXQM+o2pt8OPJAK7mfrXXQKGXW+vsJiEte8p3ywOvddmNYdihTCDw4s5FDYL+NCUshMV30DBFf0BftSzgRg641eaNslnA3KsvY+UERxsiDYdT79KeMQh6mv8BGMNkrpVM0390JlHiHxUkywRvvhNW9/3jGjXjT1KddkzZwi2SEspeosZKjiQUrVsiw90yYcCNLwDrUyBF1FEBYVcIPx3rlDAI9aZMhZvMbZWHqcFIkAMKEuFW1qRyj1Pk4v9GFD"
+}
