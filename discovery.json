@@ -4,19 +4,19 @@
     "product": "Zewatech Plantas",
     "version": "0.2.3",
     "server": "https://columnists-markets-linear-adventures.trycloudflare.com/",
-    "published_at": "2026-11-19T17:16:18+01:00",
+    "published_at": "2026-11-19T17:23:42+01:00",
     "packages": {
       "android": {
         "url": "https://columnists-markets-linear-adventures.trycloudflare.com/instalar/android.apk",
-        "sha256": "923a0757f0864fc0fe5931a9b734cb01d75b29ac54a242d5711a4a5a5313fcef",
+        "sha256": "0ff2743364883f369e4bcfb27f88a6de084a1ca2869ff1ac69b364290f5f4e22",
         "bytes": 6016712
       },
       "windows": {
         "url": "https://columnists-markets-linear-adventures.trycloudflare.com/instalar/windows.exe",
-        "sha256": "08b85322fbf231c3f6e6b708bdf3b8a875c3dbd108ed5889320b333b48a7c348",
-        "bytes": 154760284
+        "sha256": "4ed7fa2998442603e13c07dbdb0b82866933cfc0693bb21274d5859cff9a7eed",
+        "bytes": 154708880
       }
     }
   },
-  "signature": "nxtbhAy0r1pyRSInB6wiLUK6Z6Ls3/2tl2g0wLMkmD/6uSQe4Ehq7nk2Wf1w0cGHOL2oG/6c1NRxGxWbmEHSPNCk8kCKd5S0aBdjMaQIP69EhzcZIjNrd8y8MCvcBvZIv1fcItiedaTeukTYuVDYimhGy40nD1a12PTj+yT3ZJQTAI60fcjpvoZZYA4pX03oz71Q6bRyga24tf8epVivV/euelFAH3gSQMLiwZPjf4JFxSxKsh6ys01Ht/aMvDkNa5kctSe9qLCv9Ix/DbbAhpQOC1KlhL3OLRGn4fA9gP3azKrJntqoLte533Jg/vJtlG48mIkXksCT64Iemqe0upS3U+SAIf5HrwHV+ylW2ZHcJgVqdIxpS3RXvnK0E85fuHMYFnlt7UbV7gQJuaka2uv843fO8OhW0NiMefeJkGz75wykYyXiTWemaUj8P1SHi/oh05ALXyyeNre/sulWX0fUUmA0dkgyyonjdWFJ2FsRRdCQAWADSWfZu0zGB+v8"
+  "signature": "JBqFGdsnNQWUxu4KgFOfJcI9XvEeC7v6oTYBJ3YTUMgvTvbbCSUEj31gVekwjWAXp1ZhpNVaY0KQnYY+k1G3spAea5j7tVTacLhV9WzVi1Qbi97Lw76Leh5ut+5EmyfKPQNlJVB1XYrHshSpahtC/lzbBoJmWnvqDfM6VsJDydWjpotkgSTIT2ACOU9BxkVtMKLIM+WX67197RwPZhAY35z38wRfCCnsv4ASzGE/+TO1qSRkAwxJCqvw/C9zVlVUyITPl82JNfn+Tzfzt29ouAuAaBufpD8r6tD8T6XnFx87OOoRLFpeVAkGB2cPkyI9CklJG2dsZTzZ7214xbco9ZvKnM42f/sym3vszWPdiv0toDLWxQs6hnWg4R5pnoETiVnHyrLwsVNZt97rDQWjMTPngC4aAa8NO84zBKUsW7jatgj0pen4Qy3nY6qh3vSV3+x0tEmziX33t8KhwhcU645vbfkORvdH8qLxvvJTqdL5jbpXjrRqB4Zyl4YG4roR"
 }
