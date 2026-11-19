@@ -4,7 +4,7 @@
     "product": "Zewatech Plantas",
     "version": "0.2.3",
     "server": "https://columnists-markets-linear-adventures.trycloudflare.com/",
-    "published_at": "2026-11-19T17:00:26+01:00",
+    "published_at": "2026-11-19T17:16:18+01:00",
     "packages": {
       "android": {
         "url": "https://columnists-markets-linear-adventures.trycloudflare.com/instalar/android.apk",
@@ -13,10 +13,10 @@
       },
       "windows": {
         "url": "https://columnists-markets-linear-adventures.trycloudflare.com/instalar/windows.exe",
-        "sha256": "1f70f0464f599b5ec7247633cd6f17032343c41532bce8e55fd6802c0e23c00c",
-        "bytes": 163320023
+        "sha256": "08b85322fbf231c3f6e6b708bdf3b8a875c3dbd108ed5889320b333b48a7c348",
+        "bytes": 154760284
       }
     }
   },
-  "signature": "ol1jsaDQGxhfRnBHFIxwkdL4/4a+1sycAF+XHb7x0n6/aSUuEHjdrTT8iWQunboDLEz19Id5iopln8/d4xwBCgiktG4yrL6zMcnsmotWdukXIPUPqPIw5KO0SqNqppuZcffzPUInDC2nGyoJtyJDJfUUjGezJrp3M5bsX0BhRnfIK8Bx26GGsiqISJ8zoBW1EZiZ5ox9X8qPUhhVxKK0rzPR4OOdm527Z3huH8/2MfEQ2T6znzyjpSnFrgLLGy4bdjM0CEI5s/8QQJsS7fjTCaozyx1N6TJkOXHn9gX7L0LWYXK3mKQm8oxWabubv3czUz8uu1/umJjdgUD9jpeiAFiBrl+2NdOZaJ1iUktRaKz2LhFGS81ujaCB2zpSp6QhcQKrX4s59sijJSuemEBH7YjyWQvS8j3UnBr0x2TzK/moZKQweRTTNTP9UbRHFHh2xU6C6Cap83J3ADGXVtDS4F3RH5/eZ6OnMB5P1QQh8HVnifdAlCIvQRfDi8I66IXP"
+  "signature": "nxtbhAy0r1pyRSInB6wiLUK6Z6Ls3/2tl2g0wLMkmD/6uSQe4Ehq7nk2Wf1w0cGHOL2oG/6c1NRxGxWbmEHSPNCk8kCKd5S0aBdjMaQIP69EhzcZIjNrd8y8MCvcBvZIv1fcItiedaTeukTYuVDYimhGy40nD1a12PTj+yT3ZJQTAI60fcjpvoZZYA4pX03oz71Q6bRyga24tf8epVivV/euelFAH3gSQMLiwZPjf4JFxSxKsh6ys01Ht/aMvDkNa5kctSe9qLCv9Ix/DbbAhpQOC1KlhL3OLRGn4fA9gP3azKrJntqoLte533Jg/vJtlG48mIkXksCT64Iemqe0upS3U+SAIf5HrwHV+ylW2ZHcJgVqdIxpS3RXvnK0E85fuHMYFnlt7UbV7gQJuaka2uv843fO8OhW0NiMefeJkGz75wykYyXiTWemaUj8P1SHi/oh05ALXyyeNre/sulWX0fUUmA0dkgyyonjdWFJ2FsRRdCQAWADSWfZu0zGB+v8"
 }
