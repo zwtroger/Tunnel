@@ -4,11 +4,11 @@
     "product": "Zewatech Plantas",
     "version": "0.2.3",
     "server": "https://fda-perform-influenced-jul.trycloudflare.com/",
-    "published_at": "2026-11-19T16:49:19+01:00",
+    "published_at": "2026-11-19T16:51:48+01:00",
     "packages": {
       "android": {
         "url": "https://fda-perform-influenced-jul.trycloudflare.com/instalar/android.apk",
-        "sha256": "383298b3489f3d3a36e7745b9e7b13fb7e463e10b5acc724ce1898421c2d9b08",
+        "sha256": "923a0757f0864fc0fe5931a9b734cb01d75b29ac54a242d5711a4a5a5313fcef",
         "bytes": 6016712
       },
       "windows": {
@@ -18,5 +18,5 @@
       }
     }
   },
-  "signature": "nFeSGUGMbD0bAbSDTVhOC4FqfOYCyQ+iMyc6PiuFvMonTnle6Ae/QJKRfCzg/PO9GR9rf9bvi1k7vkOcDMjaghAwG5PR4zhGT5W5bAS7OvyrQL0mHqs7kryAuIzq0VCc3GhFDtYzYaYLsDUwWDndlmPSLyUWHJbTcw82kDzQuLY5rSCxDqlA5/ZiAXxRtSPznE1PGcppHu+QATYiWFNdZtaaXwyPGL4M9y1bfrXxMt8Uv0DX2GYdYctVsbpgggWKKxXQM+o2pt8OPJAK7mfrXXQKGXW+vsJiEte8p3ywOvddmNYdihTCDw4s5FDYL+NCUshMV30DBFf0BftSzgRg641eaNslnA3KsvY+UERxsiDYdT79KeMQh6mv8BGMNkrpVM0390JlHiHxUkywRvvhNW9/3jGjXjT1KddkzZwi2SEspeosZKjiQUrVsiw90yYcCNLwDrUyBF1FEBYVcIPx3rlDAI9aZMhZvMbZWHqcFIkAMKEuFW1qRyj1Pk4v9GFD"
+  "signature": "FeiqLWV8MrpJ/VALOrRXmrB5heEOQuBXHUhTo1DyEokCWd2Xw+37s87OoE7zT+zrjTP9rdQjecHvrHt14ONd0RjfG8+uwEGsBR2uSH4WMrqeFbaGGUynF9xTL+DNpgtXZsqcpUDR8Pffg0KfaDzCPz4TEYOzThawT/ivcpUEMw45uhKHvg6MqE+Kfxn4yBhEDtkcisSSyCfyq2MrRYg2LubDgwU6HBZsYI/VFwdLoA6sKv5iOMjzYivcXFnutKaX+fat6D055Bfl3sn02v1JuYjuRSzRMWJsKygPADM/VGfJCCvFF/bsoVQj+wZFfR8GdmtuehT/G776Q6B8dmHcDpMUeIQhTSrDlSWb7FQ+EfRiC2A+TgZSRTnRVIOvAImqtiim/lO8NviRzSJYybyfW1CRS7XL4Th/sGyIdD//5z7Rp0oNCjJTQKJNBL2CJusv7z7xsg+P2zCZILrsUFwEyq1hoPbyuwWg/BoduBzfR9hR7fpn3b/IkbE7sGPc/n2m"
 }
